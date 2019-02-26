@@ -114,3 +114,5 @@
 ||twimg.com$third-party,domain=~twitter.com
 @@||pbs.twimg.com/
 @@||cdn.syndication.twimg.com/
+||sp1.nypost.com,redirect=nooptext,domain=nypost.com
+||sp.nasdaq.com,redirect=nooptext,domain=nasdaq.com
